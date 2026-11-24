@@ -1,0 +1,8 @@
+[project]
+name = "rail-passenger-experience-platform"
+version = "0.1.0"
+description = "Reference architecture and prototype: passenger information, multi-link onboard connectivity, offline-first F&B POS"
+authors = [{ name = "Anthony Blow" }]
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
